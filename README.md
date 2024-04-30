@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadow091101
 - 👀 I’m interested in ... coding and web development and also seeks to learn more about it 
-- 🌱 I’m currently learning ...javascript 
+- 🌱 I’m currently learning ...javascript and Python
 - 💞️ I’m looking to collaborate on ...very nice project that will help me gain experiance 
 - 📫 You can reach me through this account of my github 
 - 
