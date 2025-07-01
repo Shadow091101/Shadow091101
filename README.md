@@ -13,7 +13,7 @@
   <a href="http://www.linkedin.com/in/manav-naik-088049296"><img src="https://img.shields.io/badge/linkedin-Manav%20Naik-blue?style=flat&logo=linkedin"></a>
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Vikram+S;I+build+Web+Apps+&+AI+stuff!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Manav+Naik;I+build+Web+Apps+and+Python+stuff!"/>
 </h1>
 ---
 
@@ -96,6 +96,10 @@
 📥 [Click here to view/download my resume](https://github.com/Shadow091101/Shadow091101/blob/main/my%20resume%20(1).pdf)
 
 ---
+<p align="center">
+  <a href="https://github.com/vikram-singh9"><img src="https://komarev.com/ghpvc/?username=vikram-singh9&label=👁️&color=blue&style=flat" alt="Profile views"></a>
+  <img src="https://neko.up.railway.app/counter/vikram-singh9?title=Profile+views&color=white&bg_color=black" height="30" alt="Cat-girl visitor counter">
+</p>
 
 ### ✨ A Little More About Me
 
