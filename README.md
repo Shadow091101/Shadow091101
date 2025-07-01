@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="./Bottom_up.svg" alt="Manav">
+</p>
 <h1 align="center">Hi 👋, I'm Manav Ujwal Naik</h1>
 <h3 align="center">Aspiring Full Stack Developer | MERN | Python | AI/ML Enthusiast</h3>
 <p align="center">
-  <img src="./header_.png" alt="Vikram S Banner">
+  <img src="./header_.png" alt="Manav">
 </p>
 
 <p align="center">
