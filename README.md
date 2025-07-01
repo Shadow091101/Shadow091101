@@ -12,7 +12,9 @@
   <a href="mailto:manavnaik442@gmail.com"><img src="https://img.shields.io/badge/email-manavnaik442@gmail.com-blue?style=flat&logo=gmail"></a>
   <a href="http://www.linkedin.com/in/manav-naik-088049296"><img src="https://img.shields.io/badge/linkedin-Manav%20Naik-blue?style=flat&logo=linkedin"></a>
 </p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Vikram+S;I+build+Web+Apps+&+AI+stuff!"/>
+</h1>
 ---
 
 ### 💫 About Me
