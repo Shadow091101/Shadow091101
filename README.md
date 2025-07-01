@@ -97,8 +97,8 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/vikram-singh9"><img src="https://komarev.com/ghpvc/?username=vikram-singh9&label=👁️&color=blue&style=flat" alt="Profile views"></a>
-  <img src="https://neko.up.railway.app/counter/vikram-singh9?title=Profile+views&color=white&bg_color=black" height="30" alt="Cat-girl visitor counter">
+  <a href="https://github.com/Shadow091101"><img src="https://komarev.com/ghpvc/?username=Shadow091101&label=👁️&color=blue&style=flat" alt="Profile views"></a>
+  <img src="https://neko.up.railway.app/counter/Shadow091101?title=Profile+views&color=white&bg_color=black" height="30" alt="Cat-girl visitor counter">
 </p>
 
 ### ✨ A Little More About Me
