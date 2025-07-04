@@ -94,7 +94,7 @@
 
 ### 📄 Resume
 
-📥 [Click here to view/download my resume](https://github.com/Shadow091101/Shadow091101/blob/main/my%20resume%20(1).pdf)
+📥 [Click here to view/download my resume](https://github.com/Shadow091101/Shadow091101/blob/main/my_resume.pdf)
 
 ---
 <p align="center">
