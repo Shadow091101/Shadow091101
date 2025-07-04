@@ -83,8 +83,9 @@
 - **Birthday WhatsApp Bot**  
   Uses `pywhatkit` and MySQL to auto-send birthday wishes. Includes GUI to manage data.
 
-- **Doctor’s Static Website**  
-  Built a clean one-page profile website for a local doctor using HTML, CSS, and Bootstrap.
+- **Personal Finance Tracker**  
+  Developed a desktop-based Personal Expense Tracker using Python’s Tkinter and MySQL for real-time expense management. Implemented features to add, view, sort, filter, and export expenses with a user-friendly     GUI and date picker. Designed a modular structure with secure database config handling and CSV export functionality. Focused on usability, scalability, and clean UI for effective personal finance tracking.
+
 
 - **Customer Data Manager**  
   GUI-based database manager built with Tkinter and MySQL for basic CRUD operations.
