@@ -58,6 +58,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Other**
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=Git&logoColor=000)
+![GitHub](https://img.shields.io/badge/-GitHub-800080?style=flat&logo=github&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=fff)
+
 ---
 
 ### 📈 GitHub Stats
